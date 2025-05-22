@@ -18,12 +18,12 @@ We cover the following topics throughout the training:
 ## Projects
 
 - **Fitness Tracker Project:**
-- 
+  
 ![Fitness Tracker](https://github.com/birsel-epik/powerbi-visualizations/blob/main/FitnessTracker-1.png)
 
 
 - **Sales Report Project:**
-- 
+  
 ![BE 2024 Sales Report-1](https://raw.githubusercontent.com/birsel-epik/powerbi-visualizations/main/PowerBI-page-1.png)
 ![BE 2024 Sales Report-2](https://raw.githubusercontent.com/birsel-epik/powerbi-visualizations/main/PowerBI-page-2.png)
 ![BE 2024 Sales Report-3](https://raw.githubusercontent.com/birsel-epik/powerbi-visualizations/main/PowerBI-page-3.png)
