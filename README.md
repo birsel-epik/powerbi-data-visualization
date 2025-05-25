@@ -19,7 +19,9 @@ We cover the following topics throughout the training:
 
 - **Fitness Tracker Project:**
   
-![Fitness Tracker](https://github.com/birsel-epik/powerbi-visualizations/blob/main/FitnessTracker-1.png)
+![Fitness Tracker - Dashboard](https://github.com/birsel-epik/powerbi-visualizations/blob/main/FitnessTracker-Dashboard.png)
+![Fitness Tracker - Activity Breakdown](https://github.com/birsel-epik/powerbi-visualizations/blob/main/FitnessTracker-Activity-Breakdown)
+![Fitness Tracker - Progress Tracker](https://github.com/birsel-epik/powerbi-visualizations/blob/main/FitnessTracker-Progress-Tracker)
 
 
 - **Sales Report Project:**
