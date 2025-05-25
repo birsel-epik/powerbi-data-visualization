@@ -1,4 +1,4 @@
-# Power BI Visualizations
+# Power BI Data Visualization
 
 This repository contains data visualization projects and reports that I developed using Power BI. It was created to share the knowledge I gained during the training process.
 
